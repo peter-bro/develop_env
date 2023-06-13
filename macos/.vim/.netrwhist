@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/HDD/jonghwancho/workspace_build/QCT/build/r0013.3/msm8996au-lv-0-1_hlos_dev.git/apps_proc/poky/meta/recipes-devtools/apt'
+let g:netrw_dirhist_2='/home/HDD/jonghwancho/workspace_build/QCT/build/r0013.3/msm8996au-lv-0-1_hlos_dev.git/apps_proc/poky/meta/recipes-devtools/glide'
+let g:netrw_dirhist_3='/home/jonghwancho/Downloads/openembedded-core/meta-skeleton/recipes-kernel/linux/linux-yocto-custom'
+let g:netrw_dirhist_4='/home/HDD/jonghwancho/workspace_build/QCT/build/r0015.1/msm8996au-lv-0-1_hlos_dev.git/apps_proc/poky/meta-honda-poc/recipes-products'
+let g:netrw_dirhist_5='/home/HDD/jonghwancho/workspace_build/QCT/build/r0015.1/msm8996au-lv-0-1_hlos_dev.git/apps_proc/poky/meta-honda-poc/recipes-products/images'
+let g:netrw_dirhist_6='/home/HDD/jonghwancho/workspace_build/QCT/build/r0015.1/msm8996au-lv-0-1_hlos_dev.git/apps_proc/poky/meta-honda-poc/recipes-products'
+let g:netrw_dirhist_7='/home/HDD/jonghwancho/workspace_build/QCT/build/r0015.1/msm8996au-lv-0-1_hlos_dev.git/apps_proc/poky/meta-honda-poc/recipes-products/images'
